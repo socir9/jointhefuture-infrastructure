@@ -4,9 +4,11 @@
 
 [English version](README.md)
 
-> **Opis projektu do portfolio.** To repozytorium przedstawia moją pracę przy infrastrukturze i backendzie strony JoinTheFuture. **Nie jest** kopią kodu źródłowego strony ani produkcyjnej konfiguracji serwera.
+> **Dokumentacja działającej infrastruktury.** To repozytorium przedstawia moją pracę przy infrastrukturze i backendzie działającej strony JoinTheFuture. **Nie jest** kopią kodu źródłowego strony ani produkcyjnej konfiguracji serwera.
 
 ## O projekcie
+
+**Frontend:** Warstwę frontendową strony JoinTheFuture przygotował **Bartosz Drozd** — ta sama osoba, która odpowiadała za frontend aplikacji Technolutions AI SEO. [GitHub: @uxdrozd-maker](https://github.com/uxdrozd-maker) · [LinkedIn](https://www.linkedin.com/in/bartosz-drozd-designer/). Za opisaną niżej infrastrukturę, hosting i backend w Pythonie odpowiadam ja.
 
 Hostuję stronę JoinTheFuture na **własnym serwerze Linux**. Zajmuję się jej infrastrukturą i utrzymaniem, usługami opartymi na **Dockerze i Caddy**, automatyzacją wdrażania oraz backendem formularza kontaktowego.
 
@@ -95,5 +97,6 @@ Pokazuje praktyczne doświadczenie z **utrzymywaniem prawdziwej infrastruktury n
 
 ---
 
-**Autor portfolio:** [@socir9](https://github.com/socir9)  
+**Infrastruktura i backend:** [@socir9](https://github.com/socir9)  
+**Frontend:** [Bartosz Drozd — GitHub @uxdrozd-maker](https://github.com/uxdrozd-maker) · [LinkedIn](https://www.linkedin.com/in/bartosz-drozd-designer/)  
 **Obszary:** Self-hosting, praktyki DevOps, backend Python i automatyzacja poczty.
