@@ -4,9 +4,11 @@
 
 [Polski opis projektu](README.pl.md)
 
-> **Portfolio case study.** This repository documents my infrastructure and backend-related work for the JoinTheFuture website. It is **not** a copy of the website's source repository or production configuration.
+> **Production infrastructure documentation.** This repository documents my infrastructure and backend-related work for the live JoinTheFuture website. It is **not** a copy of the website's source repository or production configuration.
 
 ## Project at a glance
+
+**Frontend:** The JoinTheFuture website's frontend was developed by **Bartosz Drozd**, the same frontend developer responsible for the Technolutions AI SEO interface. [GitHub: @uxdrozd-maker](https://github.com/uxdrozd-maker) · [LinkedIn](https://www.linkedin.com/in/bartosz-drozd-designer/). Infrastructure, hosting and the Python backend described below are my responsibility.
 
 I run the JoinTheFuture website on a **self-managed Linux server**. My responsibilities include infrastructure and hosting operations, **Docker-based services and Caddy**, deployment automation, and the backend supporting the website's contact form.
 
@@ -89,11 +91,12 @@ This is experience maintaining **real-world, self-hosted infrastructure**, not m
 
 - **Live website:** https://jointhefuture.pl/
 - **My GitHub:** https://github.com/socir9
-- The website's development repository is private; this public case study does not grant access to it.
+- The website's development repository is private; this public documentation does not grant access to it.
 - No application source code, private server addresses, environment files, credentials, SMTP passwords, customer messages, or internal runbooks are distributed here.
 - The documented components describe the project architecture and workflows; they are **not a public infrastructure-as-code deployment package**.
 
 ---
 
-**Portfolio owner:** [@socir9](https://github.com/socir9)  
+**Infrastructure and backend:** [@socir9](https://github.com/socir9)  
+**Frontend:** [Bartosz Drozd — GitHub @uxdrozd-maker](https://github.com/uxdrozd-maker) · [LinkedIn](https://www.linkedin.com/in/bartosz-drozd-designer/)  
 **Focus:** Self-hosting, DevOps practices, Python backend and email automation.
